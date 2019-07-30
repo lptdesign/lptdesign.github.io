@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="84.146" height="82.356" viewBox="0 0 84.146 82.356">
+  <title>Girlicon</title>
+  <g>
+    <ellipse cx="41.503" cy="44.027" rx="27.75" ry="31.875" fill="none" stroke="#fff" stroke-miterlimit="10"/>
+    <path d="M7.368,73.235V44.027C7.368,22.372,22.651,4.818,41.5,4.818S75.637,22.372,75.637,44.027V73.484" fill="none" stroke="#fff" stroke-miterlimit="10"/>
+    <path d="M17.2,43.652a10.5,10.5,0,1,0,19.735-5H18.465A10.456,10.456,0,0,0,17.2,43.652Z" fill="none" stroke="#fff" stroke-miterlimit="10"/>
+    <path d="M44.722,43.652a10.5,10.5,0,1,0,19.734-5H45.987A10.444,10.444,0,0,0,44.722,43.652Z" fill="none" stroke="#fff" stroke-miterlimit="10"/>
+    <path d="M26.95,42.336v6.047a.75.75,0,0,0,1.5,0V42.336a.75.75,0,0,0-1.5,0Z" fill="#fff"/>
+    <path d="M41.5,46.4s-3.585,8.5,0,11.166" fill="none" stroke="#fff" stroke-miterlimit="10"/>
+    <path d="M36.65,63.885c3.048,2.827,7.6,1.956,10.856.078A.5.5,0,0,0,47,63.1c-2.834,1.634-6.948,2.579-9.644.078-.471-.437-1.18.269-.707.708Z" fill="#fff"/>
+    <path d="M54.472,42.061v6.047a.75.75,0,0,0,1.5,0V42.061a.75.75,0,0,0-1.5,0Z" fill="#fff"/>
+    <path d="M42.734,12.3S52.06,37.416,69.709,46.36" fill="none" stroke="#fff" stroke-miterlimit="10"/>
+    <path d="M13.49,44.761S36.42,30.91,41.91,11.9" fill="none" stroke="#fff" stroke-miterlimit="10"/>
+    <path d="M47.993,34.3A25.354,25.354,0,0,1,59.5,32.822c1.6.185,1.582-2.316,0-2.5a25.136,25.136,0,0,0-12.769,1.822c-1.471.64-.2,2.8,1.262,2.159Z" fill="#fff"/>
+    <path d="M22.805,33.171a23.249,23.249,0,0,1,11.8,1.687c1.486.613,2.133-1.8.664-2.41a24.774,24.774,0,0,0-12.459-1.777c-1.571.21-1.592,2.713,0,2.5Z" fill="#fff"/>
+    <line x1="17.069" y1="65.235" x2="17.332" y2="73.235" fill="none" stroke="#fff" stroke-miterlimit="10"/>
+    <line x1="65.827" y1="66.161" x2="65.827" y2="73.828" fill="none" stroke="#fff" stroke-miterlimit="10"/>
+    <path d="M38.2,44.761a5.945,5.945,0,0,1,6.522,0" fill="none" stroke="#fff" stroke-miterlimit="10"/>
+    <path d="M14.232,42.252a5.625,5.625,0,0,0,1.018,11.2" fill="none" stroke="#fff" stroke-miterlimit="10"/>
+    <path d="M69.164,40.788a5.625,5.625,0,1,1-1.018,11.2" fill="none" stroke="#fff" stroke-miterlimit="10"/>
+  </g>
+</svg>
