@@ -326,6 +326,36 @@ h3{
   text-align: center;
 }
 
+@media screen and (max-width: 992px) {
+  .responsivepad {
+        padding-bottom: 20px;
+        margin: auto;
+  }
+    .pad2{
+        padding-top: 20px!important;
+    }
+    
+    .contenter {
+     text-align: center;
+    }
+
+    h1{
+        text-align: center;
+    }
+    
+     .smalltexthomey{
+        text-align: center!important; 
+    }
+    
+    .centergirl img{
+        margin: auto;
+    }
+    
+      .workwithme h2 {
+    font-size: 20px;
+  }
+}
+
 @media screen and (max-width: 576px) {
   .responsivepad {
         padding-bottom: 20px;
@@ -334,12 +364,33 @@ h3{
     .pad2{
         padding-top: 20px!important;
     }
-   
+    
+    .contenter {
+     text-align: center;
+    }
+
+    h1{
+        text-align: center;
+    }
+    
+    .smalltexthomey{
+        text-align: center!important; 
+    }
+    
+    img.resizeimg {
+        width: 100%!important;
+        margin: auto;
+    }
 }
 
 .smalltext{
    font-family: 'IBM Plex Mono', monospace;
 }
+
+.smalltexthomey{
+    font-family: 'IBM Plex Mono', monospace;
+}
+
 
 
 /* ==========================================================================
